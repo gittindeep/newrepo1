@@ -1,0 +1,1 @@
+/* C sample file - comment */ 
