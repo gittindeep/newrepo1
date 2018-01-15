@@ -1,2 +1,5 @@
 #local gitignore
 *.bak
+#local folder to omit
+tmp/*
+
